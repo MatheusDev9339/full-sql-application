@@ -20,4 +20,3 @@ class databaseWorker:
             book_value_sell INTEGER NOT     NULL,
             book_quantity   INTEGER NOT     NULL)
 ''')
-    CreateDatabase()
